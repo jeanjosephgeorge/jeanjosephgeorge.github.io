@@ -1,0 +1,22 @@
+/* https://media.giphy.com/media/tOX6vZIHMoi5y/giphy.gif */
+
+h1, body {
+    color: aliceblue;
+}
+body {
+    /* background-image: https://media.giphy.com/media/rWY9ySfjytitq/giphy.gif;
+    background-repeat: repeat; */
+    text-align: center
+    
+}
+div {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 30px;
+}
+p{
+    text-align: center;
+}
+
+a{
+    float: center;
+}
